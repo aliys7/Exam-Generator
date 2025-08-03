@@ -36,3 +36,7 @@ This Flutter application generates exam questions using Generative AI (OpenAI AP
 - [Flutter SDK](https://flutter.dev) (version 3.5.3 or higher)
 - Dart SDK (bundled with Flutter)
 - A code editor (VS Code, Android Studio, etc.)
+
+### Contributors
+- Ali Assuleiteen
+- Mohammad Albeladi
